@@ -4,3 +4,6 @@
 [submodule "ASR"]
 	path = ASR
 	url = git@github.com:Jarvis-AI-project/ASR.git
+[submodule "function_call_generator"]
+	path = function_call_generator
+	url = git@github.com:Jarvis-AI-project/function_call_generator.git
