@@ -1,14 +1,15 @@
 {
     "material-icon-theme.folders.associations": {
-        "experiments": "Project",
-        "production": "Src",
         "TTS": "Project",
         "ASR": "Project",
+        "function_call_generator": "Project",
+        "conversational_system": "Project",
+        "experiments": "Test",
+        "production": "Src",
         "audio_samples": "Audio",
         "research_papers": "Pdf",
         "archived_notebooks": "Archive",
         "cloned_repos": "Download",
-        "function_call_generator": "Project",
     },
     "workbench.colorTheme": "GitHub Dark Default",
     "files.exclude": {
