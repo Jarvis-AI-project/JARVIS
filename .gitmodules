@@ -1,3 +1,6 @@
 [submodule "TTS"]
 	path = TTS
 	url = git@github.com:Jarvis-AI-project/TTS.git
+[submodule "ASR"]
+	path = ASR
+	url = git@github.com:Jarvis-AI-project/ASR.git
